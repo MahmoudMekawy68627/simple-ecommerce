@@ -1,0 +1,8 @@
+.marginTop{
+    margin-top: 80px;
+}
+.footerProblem{
+    /* min-height: calc(100vh - 67px - 70px); */
+    min-height: calc(100vh - 175px - 70px);
+
+}
